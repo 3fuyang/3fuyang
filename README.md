@@ -1,5 +1,5 @@
-<div style="display: flex;justify-content: center;align-items: center;">
-  <img src="./seagull.svg" style="width: 200px;margin: auto;" />
+<div align=center>
+  <img src="./seagull.svg" width="200px" center />
 </div>
 <!--
 **3fuyang/3fuyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
